@@ -1,6 +1,6 @@
 ## TP5-Infomed
 
-#Integrantes del Grupo
+# Integrantes del Grupo
 -Victoria Alvarez
 -Camila Chahwan
 
